@@ -1,1 +1,2 @@
-  Trying to clone you are idiots but works very bad
+# You are idiots!
+From youareidiot.cc
